@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# 音频编辑转换器-音频格式转换切割合并
+音频编辑转换器是一款支持音频格式转换、音频剪辑、音频合并和提取的专业音频处理软件。导入音频文件后即可对音频进行剪切等操作，最后可按照您的想法一键导出您所需要的音频格式！本app支持MP3/AAC/M4A/WAV等主流音频格式，操作便捷，功能强大，是您编辑音频的得力助手，快来下载体验吧！
+#### 【软件特色】
+"音频编辑转换器是一款支持音频格式转换、音频剪辑、音频合并和提取的专业音频处理软件。导入音频文件后即可对音频进行剪切等操作，最后可按照您的想法一键导出您所需要的音频格式！本app支持MP3/AAC/M4A/WAV等主流音频格式，操作便捷，功能强大，是您编辑音频的得力助手，快来下载体验吧！
 
-You can use the [editor on GitHub](https://github.com/JoJoJOJOOHO/JoJoJOJOOHO.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+亮点功能：
+1.音频格式转换
+MP3/AAC/M4A/WAV等主流音频格式互相切换！
+处理速度快，可一键导出转换后的音频文件！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2.音频剪辑
+轻松调整音频长度，操作简单，容易上手！
 
-### Markdown
+3.音频合并
+可将多段音频文件（不限格式）拼接在一起，创造一段全新的音频！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4.音频提取
+可将视频中的声音提取出来，作为单独的音频文件导出保存！
 
-```markdown
-Syntax highlighted code block
+5.声道转换
+通过强大的ai算法，本app可合成/分离立体声，将音频文件改造得更悦耳！
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+快来尝试用音频编辑转换器来制作属于你自己的音频吧！"
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoJoJOJOOHO/JoJoJOJOOHO.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 【联系我们】
+支持邮箱：
